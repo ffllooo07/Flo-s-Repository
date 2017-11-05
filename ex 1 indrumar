@@ -3,6 +3,6 @@ b=linspace(1,1,21)
 b=b(:)
 % b trebuie sa aiba 21 de elemente, atatea cate are a
 a*b
-% a*b=21, Elementul din a se inmulteste cu elementul corespunzator din b (unu) si se aduca rezultand practic suma elementelor din a
+% a*b=21, Elementul din a se inmulteste cu elementul corespunzator din b (unu) si se aduna, rezultand practic suma elementelor din a
 b*a
-% Pt a.*b, b.*a da eroare deoarece dimensiunile matricelor sun diferite
+% Pt a.*b, b.*a da eroare deoarece dimensiunile matricelor sunt diferite
